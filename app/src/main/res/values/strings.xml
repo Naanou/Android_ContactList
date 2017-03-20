@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyContactList</string>
+    <string name="action_settings">Settings</string>
+    <string name="rb_M">Homme</string>
+    <string name="rb_F">Femme</string>
+    <string name="tx_nom" />
+    <string name="bt_valide">Valider</string>
+</resources>
